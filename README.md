@@ -20,3 +20,13 @@ Compared to other models, FCA demonstrates comparable results, suggesting its co
 Overall Conclusion
 FCA excels in balanced datasets, demonstrating exceptional results, but its performance diminishes in imbalanced data, as seen in the "Stroke" dataset.
 This underscores the importance of considering class balance when using FCA and the need for additional strategies to enhance performance in imbalanced data settings.
+
+
+_Bin_DF (1).ipynb_
+This notebook details the binarization process for machine learning data, covering data preprocessing and feature engineering for binary format conversion.
+
+_NeuralFCA (9).ipynb_
+This notebook demonstrates the implementation and evaluation of a Neural FCA model, highlighting its architecture, training process, and performance on various datasets.
+
+_Baseline.ipynb_
+This notebook compares baseline machine learning models like Decision Trees and Logistic Regression against the Neural FCA model, focusing on implementation and performance evaluation.
