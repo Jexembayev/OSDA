@@ -1,5 +1,5 @@
 # OSDA
-![Image alt](https://github.com/Jexembayev/OSDA/blob/main/Big Homework/download%20(11).png)
+![Image alt](https://github.com/Jexembayev/OSDA/blob/main/download%20(11).png)
 
 Based on the provided data and visualization of the results, we can draw the following conclusions about the performance of the FCA neural network compared to other machine learning models:
 
